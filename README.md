@@ -1,10 +1,16 @@
 # AFZ
 
- A     TTTTTTT  TTTTTTT   A    CCCCC   K   K     FFFFFFF  RRRRRR   EEEEEEE EEEEEEE ZZZZZZZZ  OOOOO   N     N  EEEEEEE 
-A A       T        T     A A  C       K  K      F        R     R  E       E      Z    Z  O    O  N N   N  E       
-AAAA       T        T    AAAA  C       KKK       FFFFF    RRRRRR   EEEE    EEEE    Z      O    O  N  N  N  EEEE    
-A   A      T        T   A   A  C       K  K      F        R   R    E       E          Z  O    O  N   N N  E       
-A    A     T        T  A    A   CCCCC  K   K     F        R    R   EEEEEEE EEEEEEE ZZZZZZZZ  OOOOO   N     N  EEEEEEE 
+  _______  
+ /       \ 
+|   _ _   |
+|  ( | )  |
+ \   |   / 
+  |  A  |  
+  |  F  |  
+  |  Z  |  
+  |     |  
+  |_____|  
+
 
 
 
