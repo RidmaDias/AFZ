@@ -1,0 +1,1204 @@
+logs	Severity
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 07:37:16 2023] 192.168.1.15 test test	0
+[Sun Sep  3 07:37:18 2023] 192.168.1.15 test tsd	0
+[Sun Sep  3 07:37:19 2023] 192.168.1.15 test tkljd	0
+[Sun Sep  3 07:37:19 2023] HASSH: 192.168.1.15 70fb86783479c70b3ca1726b5244b1eb sport: 56176 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:12 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 51774 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 123456	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 princess	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 rockyou	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 daniel	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 654321	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 111111	0
+[Sun Sep  3 08:02:12 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 51790 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 password	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 nicole	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 lovely	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 qwerty	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 	0
+[Sun Sep  3 08:02:12 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 51818 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 123456789	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 iloveyou	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 1234567	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 abc123	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 monkey	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 jessica	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 ashley	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 000000	0
+[Sun Sep  3 08:02:12 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 51788 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 12345	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 12345678	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 babygirl	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 michael	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 iloveu	0
+[Sun Sep  3 08:02:12 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 51792 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 password	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 rockyou	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 nicole	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 lovely	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 ashley	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 000000	0
+[Sun Sep  3 08:02:12 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 51832 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 123456789	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 1234567	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 abc123	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 monkey	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 michael	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 iloveu	0
+[Sun Sep  3 08:02:12 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 51834 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 12345	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 iloveyou	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 princess	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 12345678	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 babygirl	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 654321	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 111111	0
+[Sun Sep  3 08:02:12 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 51864 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 123456	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 daniel	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 jessica	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 qwerty	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 	0
+[Sun Sep  3 08:02:12 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 51856 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456789 password	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456789 princess	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456789 12345678	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456789 babygirl	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456789 654321	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 123456789 111111	0
+[Sun Sep  3 08:02:13 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 51906 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456789 123456	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456789 1234567	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456789 abc123	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456789 monkey	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456789 michael	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 123456789 iloveu	0
+[Sun Sep  3 08:02:13 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 51878 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456789 12345	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456789 nicole	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456789 lovely	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456789 ashley	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 123456789 000000	0
+[Sun Sep  3 08:02:13 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 51876 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456789 123456789	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456789 iloveyou	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456789 rockyou	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456789 daniel	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456789 jessica	0
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456789 qwerty	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 123456789 	0
+[Sun Sep  3 08:02:13 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 51874 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password password	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password 12345678	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password babygirl	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password 654321	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password 111111	0
+[Sun Sep  3 08:02:13 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 51932 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password 12345	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password 1234567	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password nicole	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password lovely	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password ashley	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password 000000	0
+[Sun Sep  3 08:02:13 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 51944 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password 123456	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password iloveyou	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password princess	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password abc123	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password monkey	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password michael	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password iloveu	0
+[Sun Sep  3 08:02:13 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 51912 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password 123456789	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password rockyou	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password daniel	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password jessica	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password qwerty	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password 	0
+[Sun Sep  3 08:02:13 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 51924 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou 123456	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou iloveyou	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou 12345678	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou babygirl	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou 654321	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou 111111	0
+[Sun Sep  3 08:02:13 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 51958 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou password	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou rockyou	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou daniel	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou jessica	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou qwerty	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou 	0
+[Sun Sep  3 08:02:13 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 51964 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou 12345	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou princess	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou abc123	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou monkey	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou michael	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou iloveu	0
+[Sun Sep  3 08:02:13 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 51978 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou 123456789	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou 1234567	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou nicole	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou lovely	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou ashley	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou 000000	0
+[Sun Sep  3 08:02:13 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 51960 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess 123456789	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess nicole	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess lovely	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess ashley	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess 000000	0
+[Sun Sep  3 08:02:13 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52008 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess 123456	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess 1234567	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess rockyou	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess daniel	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess jessica	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess qwerty	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess 	0
+[Sun Sep  3 08:02:13 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 51992 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess 12345	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess iloveyou	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess princess	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess abc123	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess monkey	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess michael	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess iloveu	0
+[Sun Sep  3 08:02:13 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52012 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess password	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess 12345678	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess babygirl	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess 654321	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess 111111	0
+[Sun Sep  3 08:02:13 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52024 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 1234567 12345	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 1234567 12345678	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 1234567 babygirl	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 1234567 654321	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 1234567 111111	0
+[Sun Sep  3 08:02:14 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52036 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 1234567 123456789	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 1234567 iloveyou	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 1234567 1234567	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 1234567 abc123	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 1234567 monkey	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 1234567 michael	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 1234567 iloveu	0
+[Sun Sep  3 08:02:14 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52040 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 1234567 password	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 1234567 nicole	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 1234567 lovely	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 1234567 ashley	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 1234567 000000	0
+[Sun Sep  3 08:02:14 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52048 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 1234567 123456	0
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 1234567 princess	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 1234567 rockyou	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 1234567 daniel	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 1234567 jessica	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 1234567 qwerty	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 1234567 	0
+[Sun Sep  3 08:02:14 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52050 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou 123456789	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou iloveyou	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou princess	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou 1234567	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou abc123	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou monkey	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou michael	0
+[Sun Sep  3 08:02:14 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52066 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou 123456	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou daniel	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou jessica	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou qwerty	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou 000000	0
+[Sun Sep  3 08:02:14 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52062 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou 12345	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou 12345678	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou babygirl	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou 654321	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou 111111	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou 	0
+[Sun Sep  3 08:02:14 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52060 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou password	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou rockyou	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou nicole	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou lovely	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou ashley	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou iloveu	0
+[Sun Sep  3 08:02:14 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52070 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 123456	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 babygirl	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 654321	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 111111	0
+[Sun Sep  3 08:02:14 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52072 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 123456789	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 1234567	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 12345678	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 nicole	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 lovely	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 ashley	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 000000	0
+[Sun Sep  3 08:02:14 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52076 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 password	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 daniel	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 jessica	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 qwerty	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 	0
+[Sun Sep  3 08:02:14 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52082 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 12345	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 iloveyou	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 princess	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 rockyou	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 abc123	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 monkey	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 michael	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 iloveu	0
+[Sun Sep  3 08:02:14 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52078 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 123456	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 iloveyou	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 princess	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 1234567	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 nicole	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 daniel	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 jessica	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 qwerty	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 	0
+[Sun Sep  3 08:02:14 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52088 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 password	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 abc123	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 lovely	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 ashley	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 000000	0
+[Sun Sep  3 08:02:14 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52100 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 123456789	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 12345678	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 monkey	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 michael	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 iloveu	0
+[Sun Sep  3 08:02:14 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52102 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 12345	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 rockyou	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 babygirl	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 654321	0
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 111111	0
+[Sun Sep  3 08:02:14 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52118 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole 123456789	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole iloveyou	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole 12345678	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole monkey	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole michael	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole iloveu	0
+[Sun Sep  3 08:02:15 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52134 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole 12345	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole princess	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole rockyou	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole nicole	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole babygirl	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole 654321	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole 111111	0
+[Sun Sep  3 08:02:15 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52136 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole password	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole abc123	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole lovely	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole ashley	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole 000000	0
+[Sun Sep  3 08:02:15 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52164 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole 123456	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole 1234567	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole daniel	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole jessica	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole qwerty	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole 	0
+[Sun Sep  3 08:02:15 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52176 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel 12345	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel iloveyou	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel 1234567	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel 12345678	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel nicole	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel monkey	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel michael	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel iloveu	0
+[Sun Sep  3 08:02:15 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52186 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel 123456	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel princess	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel rockyou	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel abc123	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel babygirl	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel 654321	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel 111111	0
+[Sun Sep  3 08:02:15 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52188 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel 123456789	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel lovely	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel ashley	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel 000000	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel 	0
+[Sun Sep  3 08:02:15 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52208 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel password	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel daniel	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel jessica	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel qwerty	0
+[Sun Sep  3 08:02:15 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52212 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl password	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl rockyou	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl daniel	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl 654321	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl 111111	0
+[Sun Sep  3 08:02:15 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52228 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl 123456	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl iloveyou	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl princess	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl 12345678	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl monkey	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl michael	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl iloveu	0
+[Sun Sep  3 08:02:15 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52226 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl 12345	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl abc123	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl lovely	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl ashley	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl 000000	0
+[Sun Sep  3 08:02:15 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52258 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl 123456789	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl 1234567	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl nicole	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl babygirl	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl jessica	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl qwerty	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl 	0
+[Sun Sep  3 08:02:15 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52254 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey 123456	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey nicole	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey lovely	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey ashley	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey 000000	0
+[Sun Sep  3 08:02:15 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52264 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey password	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey rockyou	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey abc123	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey monkey	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey michael	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey iloveu	0
+[Sun Sep  3 08:02:15 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52306 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey 123456789	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey iloveyou	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey princess	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey 1234567	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey 12345678	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey babygirl	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey 654321	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey 111111	0
+[Sun Sep  3 08:02:15 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52278 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey 12345	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey daniel	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey jessica	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey qwerty	0
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey 	0
+[Sun Sep  3 08:02:15 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52280 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely 123456789	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely iloveyou	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely princess	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely 1234567	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely nicole	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely lovely	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely ashley	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely 000000	0
+[Sun Sep  3 08:02:16 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52314 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely 12345	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely abc123	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely monkey	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely michael	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely iloveu	0
+[Sun Sep  3 08:02:16 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52318 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely 123456	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely 12345678	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely babygirl	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely 654321	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely 111111	0
+[Sun Sep  3 08:02:16 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52332 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely password	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely rockyou	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely daniel	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely jessica	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely qwerty	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely 	0
+[Sun Sep  3 08:02:16 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52338 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica 12345	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica iloveyou	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica 1234567	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica 12345678	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica daniel	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica lovely	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica ashley	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica 000000	0
+[Sun Sep  3 08:02:16 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52354 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica 123456789	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica jessica	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica qwerty	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica 	0
+[Sun Sep  3 08:02:16 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52352 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica password	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica princess	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica rockyou	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica abc123	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica babygirl	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica 654321	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica 111111	0
+[Sun Sep  3 08:02:16 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52376 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica 123456	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica nicole	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica monkey	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica michael	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica iloveu	0
+[Sun Sep  3 08:02:16 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52372 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 123456789	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 1234567	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 abc123	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 monkey	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 michael	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 iloveu	0
+[Sun Sep  3 08:02:16 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52380 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 password	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 rockyou	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 nicole	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 lovely	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 ashley	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 000000	0
+[Sun Sep  3 08:02:16 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52382 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 12345	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 babygirl	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 654321	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 111111	0
+[Sun Sep  3 08:02:16 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52394 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 123456	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 iloveyou	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 princess	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 12345678	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 daniel	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 jessica	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 qwerty	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 	0
+[Sun Sep  3 08:02:16 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52408 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael 123456789	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael 12345678	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael babygirl	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael 654321	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael 111111	0
+[Sun Sep  3 08:02:16 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39710 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael 123456	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael iloveyou	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael 1234567	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael nicole	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael lovely	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael ashley	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael 000000	0
+[Sun Sep  3 08:02:16 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39722 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael 12345	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael rockyou	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael daniel	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael jessica	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael qwerty	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael 	0
+[Sun Sep  3 08:02:16 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39708 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael password	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael princess	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael abc123	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael monkey	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael michael	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael iloveu	0
+[Sun Sep  3 08:02:16 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39744 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 ashley password	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 ashley 1234567	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 ashley 12345678	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 ashley babygirl	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 ashley 654321	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 ashley 111111	0
+[Sun Sep  3 08:02:17 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39760 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 ashley 123456	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 ashley abc123	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 ashley monkey	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 ashley michael	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 ashley iloveu	0
+[Sun Sep  3 08:02:17 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39758 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 ashley 123456789	0
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 ashley iloveyou	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 ashley princess	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 ashley rockyou	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 ashley daniel	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 ashley jessica	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 ashley qwerty	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 ashley 	0
+[Sun Sep  3 08:02:17 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39782 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 ashley 12345	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 ashley nicole	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 ashley lovely	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 ashley ashley	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 ashley 000000	0
+[Sun Sep  3 08:02:17 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39768 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty 12345	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty daniel	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty jessica	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty 111111	0
+[Sun Sep  3 08:02:17 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39802 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty 123456	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty rockyou	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty nicole	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty lovely	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty qwerty	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty 	0
+[Sun Sep  3 08:02:17 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39796 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty password	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty princess	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty 12345678	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty babygirl	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty michael	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty iloveu	0
+[Sun Sep  3 08:02:17 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39816 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty 123456789	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty iloveyou	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty 1234567	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty abc123	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty monkey	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty 654321	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty ashley	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty 000000	0
+[Sun Sep  3 08:02:17 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39804 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 123456	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 princess	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 abc123	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 monkey	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 michael	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 000000	0
+[Sun Sep  3 08:02:17 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39832 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 123456789	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 rockyou	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 daniel	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 jessica	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 ashley	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 111111	0
+[Sun Sep  3 08:02:17 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39860 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 password	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 iloveyou	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 12345678	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 babygirl	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 654321	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 iloveu	0
+[Sun Sep  3 08:02:17 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39840 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 12345	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 1234567	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 nicole	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 lovely	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 qwerty	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 	0
+[Sun Sep  3 08:02:17 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39854 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu 123456789	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu rockyou	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu daniel	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu jessica	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu 111111	0
+[Sun Sep  3 08:02:17 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39868 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu 12345	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu iloveyou	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu 1234567	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu nicole	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu lovely	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu qwerty	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu 	0
+[Sun Sep  3 08:02:17 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39898 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu password	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu princess	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu 12345678	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu babygirl	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu michael	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu iloveu	0
+[Sun Sep  3 08:02:17 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39908 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu 123456	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu abc123	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu monkey	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu 654321	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu ashley	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu 000000	0
+[Sun Sep  3 08:02:17 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39870 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 000000 123456	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 000000 iloveyou	0
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 000000 princess	0
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 000000 1234567	0
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 000000 rockyou	0
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 000000 12345678	0
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 000000 babygirl	0
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 000000 654321	0
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 000000 111111	0
+[Sun Sep  3 08:02:18 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39920 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 000000 12345	0
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 000000 abc123	0
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 000000 monkey	0
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 000000 michael	0
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 000000 iloveu	0
+[Sun Sep  3 08:02:18 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39948 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 000000 123456789	0
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 000000 nicole	0
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 000000 lovely	0
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 000000 ashley	0
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 000000 000000	0
+[Sun Sep  3 08:02:18 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39936 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 000000 password	0
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 000000 daniel	0
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 000000 jessica	0
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 000000 qwerty	0
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 000000 	0
+[Sun Sep  3 08:02:18 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39960 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa password	0
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa daniel	0
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa jessica	0
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa qwerty	0
+[Sun Sep  3 08:02:18 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39996 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa 123456789	0
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa nicole	0
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa lovely	0
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa ashley	0
+[Sun Sep  3 08:02:18 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39992 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa 123456	0
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa iloveyou	0
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa princess	0
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa 1234567	0
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa rockyou	0
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa 12345678	0
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa babygirl	0
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa 654321	0
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa 111111	0
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa 000000	0
+[Sun Sep  3 08:02:18 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39972 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa 12345	0
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa abc123	0
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa monkey	0
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa michael	0
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa iloveu	0
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa 	0
+[Sun Sep  3 08:02:18 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39982 ttl: 64	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240	0
+"Sep  2 17:40:48 backmain useradd[664]: new group: name=backmain, GID=1000"	1
+"Sep  2 17:40:48 backmain useradd[664]: new user: name=backmain, UID=1000, GID=1000, home=/home/backmain, shell=/bin/bash, from=none"	1
+Sep  2 17:40:48 backmain useradd[664]: add 'backmain' to group 'adm'	1
+Sep  2 17:40:48 backmain useradd[664]: add 'backmain' to group 'cdrom'	1
+Sep  2 17:40:48 backmain useradd[664]: add 'backmain' to group 'sudo'	1
+Sep  2 17:40:48 backmain useradd[664]: add 'backmain' to group 'dip'	1
+Sep  2 17:40:48 backmain useradd[664]: add 'backmain' to group 'plugdev'	1
+Sep  2 17:40:48 backmain useradd[664]: add 'backmain' to group 'lxd'	1
+Sep  2 17:40:48 backmain useradd[664]: add 'backmain' to shadow group 'adm'	1
+Sep  2 17:40:48 backmain useradd[664]: add 'backmain' to shadow group 'cdrom'	1
+Sep  2 17:40:48 backmain useradd[664]: add 'backmain' to shadow group 'sudo'	1
+Sep  2 17:40:48 backmain useradd[664]: add 'backmain' to shadow group 'dip'	1
+Sep  2 17:40:48 backmain useradd[664]: add 'backmain' to shadow group 'plugdev'	1
+Sep  2 17:40:48 backmain useradd[664]: add 'backmain' to shadow group 'lxd'	1
+Sep  2 17:40:48 backmain systemd-logind[696]: New seat seat0.	3
+Sep  2 17:40:48 backmain systemd-logind[696]: Watching system buttons on /dev/input/event0 (Power Button)	3
+Sep  2 17:40:48 backmain systemd-logind[696]: Watching system buttons on /dev/input/event1 (Sleep Button)	3
+Sep  2 17:40:48 backmain systemd-logind[696]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)	3
+Sep  2 17:40:51 backmain sshd[797]: Server listening on 0.0.0.0 port 22.	3
+Sep  2 17:40:51 backmain sshd[797]: Server listening on :: port 22.	3
+"Sep  2 17:41:02 backmain useradd[1153]: new user: name=lxd, UID=999, GID=100, home=/var/snap/lxd/common/lxd, shell=/bin/false, from=none"	1
+Sep  2 17:41:09 backmain sshd[797]: Received signal 15; terminating.	3
+Sep  2 17:41:09 backmain sshd[1373]: Server listening on 0.0.0.0 port 22.	3
+Sep  2 17:41:09 backmain sshd[1373]: Server listening on :: port 22.	3
+Sep  2 17:41:38 backmain login[749]: pam_unix(login:session): session opened for user backmain(uid=1000) by LOGIN(uid=0)	3
+Sep  2 17:41:38 backmain systemd-logind[696]: New session 1 of user backmain.	3
+Sep  2 17:41:38 backmain systemd: pam_unix(systemd-user:session): session opened for user backmain(uid=1000) by (uid=0)	3
+Sep  2 17:41:51 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain ; USER=root ; COMMAND=/usr/bin/apt update	2
+Sep  2 17:41:51 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 17:41:56 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 17:49:57 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain ; USER=root ; COMMAND=/usr/bin/apt install git	2
+Sep  2 17:49:57 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 17:50:10 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 17:53:21 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/endlessh ; USER=root ; COMMAND=/usr/bin/apt install make	2
+Sep  2 17:53:21 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 17:53:27 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 17:54:27 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/endlessh ; USER=root ; COMMAND=/usr/bin/apt install libc6-dev	2
+Sep  2 17:54:27 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 17:54:53 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 17:57:16 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/endlessh ; USER=root ; COMMAND=/usr/bin/make	2
+Sep  2 17:57:16 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 17:57:16 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 18:17:01 backmain CRON[2874]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)	3
+Sep  2 18:17:01 backmain CRON[2874]: pam_unix(cron:session): session closed for user root	3
+Sep  2 18:18:24 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/mhn ; USER=root ; COMMAND=./install.sh	2
+Sep  2 18:18:24 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 18:22:48 backmain sshd[1373]: Received signal 15; terminating.	3
+Sep  2 18:22:48 backmain sshd[17785]: Server listening on 0.0.0.0 port 22.	3
+Sep  2 18:22:48 backmain sshd[17785]: Server listening on :: port 22.	3
+Sep  2 18:23:49 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 18:25:09 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/mhn ; USER=root ; COMMAND=./install.sh	2
+Sep  2 18:25:09 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 18:25:14 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 18:25:28 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/mhn ; USER=root ; COMMAND=/usr/bin/apt install pip3	2
+Sep  2 18:25:28 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 18:25:28 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 18:25:44 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/mhn ; USER=root ; COMMAND=/usr/bin/apt install python3-pip	2
+Sep  2 18:25:44 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 18:26:00 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 18:26:07 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/mhn ; USER=root ; COMMAND=/usr/bin/apt install python3	2
+Sep  2 18:26:07 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 18:26:08 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 18:26:11 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/mhn ; USER=root ; COMMAND=./install.sh	2
+Sep  2 18:26:11 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 18:26:26 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 18:26:45 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/mhn ; USER=root ; COMMAND=/usr/bin/apt install python3-pip	2
+Sep  2 18:26:45 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 18:26:58 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 18:27:01 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/mhn ; USER=root ; COMMAND=./install.sh	2
+Sep  2 18:27:01 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 18:27:11 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 18:27:39 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/mhn ; USER=root ; COMMAND=/usr/bin/apt install python3-pip	2
+Sep  2 18:27:39 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 18:27:51 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 18:28:20 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/mhn ; USER=root ; COMMAND=./install.sh	2
+Sep  2 18:28:20 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 18:28:31 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 18:29:23 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/mhn ; USER=root ; COMMAND=/usr/bin/apt install python-pip	2
+Sep  2 18:29:23 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 18:29:24 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 18:29:46 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/mhn ; USER=root ; COMMAND=./install.sh	2
+Sep  2 18:29:46 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 18:29:51 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 18:31:27 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/mhn ; USER=root ; COMMAND=./install.sh	2
+Sep  2 18:31:27 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 18:31:55 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 18:33:00 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/mhn ; USER=root ; COMMAND=/usr/bin/apt install python-dev	2
+Sep  2 18:33:00 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 18:33:00 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 18:34:48 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/mhn ; USER=root ; COMMAND=/usr/bin/apt install python2-dev	2
+Sep  2 18:34:48 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 18:34:58 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 18:46:35 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/pshitt ; USER=root ; COMMAND=/usr/bin/apt isntall located	2
+Sep  2 18:46:35 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 18:46:35 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 18:46:40 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/pshitt ; USER=root ; COMMAND=/usr/bin/apt isntall plocate	2
+Sep  2 18:46:40 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 18:46:40 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 18:46:46 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/pshitt ; USER=root ; COMMAND=/usr/bin/apt install plocate	2
+Sep  2 18:46:46 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+"Sep  2 18:46:49 backmain groupadd[22903]: group added to /etc/group: name=plocate, GID=119"	3
+Sep  2 18:46:49 backmain groupadd[22903]: group added to /etc/gshadow: name=plocate	3
+"Sep  2 18:46:49 backmain groupadd[22903]: new group: name=plocate, GID=119"	3
+Sep  2 18:47:01 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 18:48:52 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/pshitt ; USER=root ; COMMAND=/usr/sbin/ufw allow 22	2
+Sep  2 18:48:52 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 18:48:53 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 18:49:58 backmain systemd-logind[696]: System is rebooting.	3
+Sep  2 18:52:01 backmain sshd[728]: Server listening on 0.0.0.0 port 22.	3
+Sep  2 18:52:01 backmain sshd[728]: Server listening on :: port 22.	3
+Sep  2 18:52:01 backmain systemd-logind[685]: New seat seat0.	3
+Sep  2 18:52:01 backmain systemd-logind[685]: Watching system buttons on /dev/input/event0 (Power Button)	3
+Sep  2 18:52:01 backmain systemd-logind[685]: Watching system buttons on /dev/input/event1 (Sleep Button)	3
+Sep  2 18:52:01 backmain systemd-logind[685]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)	3
+Sep  2 19:01:31 backmain login[708]: pam_unix(login:session): session opened for user backmain(uid=1000) by LOGIN(uid=0)	3
+Sep  2 19:01:31 backmain systemd-logind[685]: New session 1 of user backmain.	3
+Sep  2 19:01:31 backmain systemd: pam_unix(systemd-user:session): session opened for user backmain(uid=1000) by (uid=0)	3
+Sep  2 19:02:15 backmain sshd[1054]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.8.187  user=backmain	3
+Sep  2 19:02:16 backmain sshd[1054]: Failed password for backmain from 192.168.8.187 port 53318 ssh2	3
+Sep  2 19:02:19 backmain sshd[1054]: Connection closed by authenticating user backmain 192.168.8.187 port 53318 [preauth]	3
+Sep  2 19:03:01 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain ; USER=root ; COMMAND=/usr/sbin/ufw allow 80	2
+Sep  2 19:03:01 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:03:01 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 19:03:05 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain ; USER=root ; COMMAND=/usr/sbin/ufw allow 443	2
+Sep  2 19:03:05 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:03:05 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 19:03:22 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain ; USER=root ; COMMAND=/usr/sbin/ufw enable	2
+Sep  2 19:03:22 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:03:23 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 19:06:55 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain ; USER=root ; COMMAND=/usr/bin/mv endlessh/ /usr/local/bin/	2
+Sep  2 19:06:55 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:06:55 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 19:08:50 backmain sudo: backmain : TTY=tty1 ; PWD=/usr/local/bin/endlessh ; USER=root ; COMMAND=/usr/bin/cp util/endlessh.service /etc/systemd/system/	2
+Sep  2 19:08:50 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:08:50 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 19:09:13 backmain sudo: backmain : TTY=tty1 ; PWD=/usr/local/bin/endlessh ; USER=root ; COMMAND=/usr/bin/systemctl enable endlessh	2
+Sep  2 19:09:13 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:09:13 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 19:09:47 backmain sudo: backmain : TTY=tty1 ; PWD=/usr/local/bin/endlessh ; USER=root ; COMMAND=/usr/bin/mkdir -p /etc/endlessh	2
+Sep  2 19:09:47 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:09:47 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 19:10:00 backmain sudo: backmain : TTY=tty1 ; PWD=/usr/local/bin/endlessh ; USER=root ; COMMAND=/usr/bin/nano /etc/endlessh/config	2
+Sep  2 19:10:00 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:10:14 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 19:14:47 backmain sudo: backmain : TTY=tty1 ; PWD=/usr/local/bin/endlessh ; USER=root ; COMMAND=/usr/bin/systemctl start endlessh	2
+Sep  2 19:14:47 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:14:47 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 19:15:54 backmain sudo: backmain : TTY=tty1 ; PWD=/usr/local/bin/endlessh ; USER=root ; COMMAND=/usr/bin/apt install net-tools	2
+Sep  2 19:15:54 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:16:01 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 19:16:09 backmain sudo: backmain : TTY=tty1 ; PWD=/usr/local/bin/endlessh ; USER=root ; COMMAND=/usr/bin/netstat -tulpn	2
+Sep  2 19:16:09 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:16:09 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 19:16:20 backmain sudo: backmain : TTY=tty1 ; PWD=/usr/local/bin/endlessh ; USER=root ; COMMAND=/usr/bin/netstat -tulpn	2
+Sep  2 19:16:20 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:16:20 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 19:16:52 backmain sudo: backmain : TTY=tty1 ; PWD=/usr/local/bin/endlessh ; USER=root ; COMMAND=/usr/bin/systemctl start endlessh	2
+Sep  2 19:16:52 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:16:52 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 19:17:01 backmain CRON[1575]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)	3
+Sep  2 19:17:01 backmain CRON[1575]: pam_unix(cron:session): session closed for user root	3
+Sep  2 19:17:21 backmain sudo: backmain : TTY=tty1 ; PWD=/usr/local/bin/endlessh ; USER=root ; COMMAND=/usr/bin/systemctl status endlessh	2
+Sep  2 19:17:21 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:17:29 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 19:17:35 backmain sudo: backmain : TTY=tty1 ; PWD=/usr/local/bin/endlessh ; USER=root ; COMMAND=/usr/bin/systemctl enable endlessh	2
+Sep  2 19:17:35 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:17:36 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 19:17:43 backmain sudo: backmain : TTY=tty1 ; PWD=/usr/local/bin/endlessh ; USER=root ; COMMAND=/usr/bin/systemctl start endlessh	2
+Sep  2 19:17:43 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:17:43 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 19:17:46 backmain sudo: backmain : TTY=tty1 ; PWD=/usr/local/bin/endlessh ; USER=root ; COMMAND=/usr/bin/systemctl status endlessh	2
+Sep  2 19:17:46 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:17:46 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 19:17:51 backmain sudo: backmain : TTY=tty1 ; PWD=/usr/local/bin/endlessh ; USER=root ; COMMAND=/usr/bin/systemctl status endlessh	2
+Sep  2 19:17:51 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:17:51 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 19:17:52 backmain sudo: backmain : TTY=tty1 ; PWD=/usr/local/bin/endlessh ; USER=root ; COMMAND=/usr/bin/systemctl status endlessh	2
+Sep  2 19:17:52 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:17:52 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 19:17:54 backmain sudo: backmain : TTY=tty1 ; PWD=/usr/local/bin/endlessh ; USER=root ; COMMAND=/usr/bin/systemctl status endlessh	2
+Sep  2 19:17:54 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:17:59 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 19:18:04 backmain sudo: backmain : TTY=tty1 ; PWD=/usr/local/bin/endlessh ; USER=root ; COMMAND=/usr/bin/netstat -tulpn	2
+Sep  2 19:18:04 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:18:04 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 19:18:09 backmain sudo: backmain : TTY=tty1 ; PWD=/usr/local/bin/endlessh ; USER=root ; COMMAND=/usr/bin/systemctl status endlessh	2
+Sep  2 19:18:09 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:18:22 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 19:18:43 backmain sshd[1656]: Accepted password for backmain from 192.168.8.187 port 52408 ssh2	3
+Sep  2 19:18:43 backmain sshd[1656]: pam_unix(sshd:session): session opened for user backmain(uid=1000) by (uid=0)	3
+Sep  2 19:18:43 backmain systemd-logind[685]: New session 4 of user backmain.	3
+Sep  2 19:18:49 backmain sshd[1717]: Received disconnect from 192.168.8.187 port 52408:11: disconnected by user	3
+Sep  2 19:18:49 backmain sshd[1717]: Disconnected from user backmain 192.168.8.187 port 52408	3
+Sep  2 19:18:49 backmain sshd[1656]: pam_unix(sshd:session): session closed for user backmain	3
+Sep  2 19:18:49 backmain systemd-logind[685]: Session 4 logged out. Waiting for processes to exit.	3
+Sep  2 19:18:49 backmain systemd-logind[685]: Removed session 4.	3
+Sep  2 19:22:03 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain ; USER=root ; COMMAND=/usr/bin/apt install build-essential	2
+Sep  2 19:22:03 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:22:03 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 19:31:23 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain ; USER=root ; COMMAND=/usr/bin/nano /etc/ssh/sshd_config	2
+Sep  2 19:31:23 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:31:32 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 19:32:16 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain ; USER=root ; COMMAND=/usr/bin/systemctl restart sshd.service	2
+Sep  2 19:32:16 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:32:16 backmain sshd[728]: Received signal 15; terminating.	3
+Sep  2 19:32:16 backmain sshd[1834]: Server listening on 0.0.0.0 port 22.	3
+Sep  2 19:32:16 backmain sshd[1834]: Server listening on :: port 22.	3
+Sep  2 19:32:16 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 19:32:24 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain ; USER=root ; COMMAND=/usr/bin/systemctl status sshd.service	2
+Sep  2 19:32:24 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:32:24 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 19:34:13 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain ; USER=root ; COMMAND=/usr/bin/install libssh-dev libjson-c-dev libpcap-dev libssh-dev	2
+Sep  2 19:34:13 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:34:13 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 19:34:23 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain ; USER=root ; COMMAND=/usr/bin/apt install libssh-dev libjson-c-dev libpcap-dev libssh-dev	2
+Sep  2 19:34:23 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:34:33 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 19:40:03 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/ssh-honeypot ; USER=root ; COMMAND=/usr/bin/nano /etc/ssh/sshd_config	2
+Sep  2 19:40:03 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:40:17 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 19:40:28 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/ssh-honeypot ; USER=root ; COMMAND=/usr/bin/systemctl restart sshd.service	2
+Sep  2 19:40:28 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:40:29 backmain sshd[1834]: Received signal 15; terminating.	3
+Sep  2 19:40:29 backmain sshd[2109]: Server listening on 0.0.0.0 port 69.	3
+Sep  2 19:40:29 backmain sshd[2109]: Server listening on :: port 69.	3
+Sep  2 19:40:29 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 19:40:37 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/ssh-honeypot ; USER=root ; COMMAND=/usr/bin/systemctl status sshd.service	2
+Sep  2 19:40:37 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:40:37 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 19:41:51 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/ssh-honeypot ; USER=root ; COMMAND=/usr/sbin/ufw allow 69	2
+Sep  2 19:41:51 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:41:51 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 19:41:58 backmain sshd[2153]: Accepted password for backmain from 192.168.8.187 port 52382 ssh2	3
+Sep  2 19:41:58 backmain sshd[2153]: pam_unix(sshd:session): session opened for user backmain(uid=1000) by (uid=0)	3
+Sep  2 19:41:58 backmain systemd-logind[685]: New session 5 of user backmain.	3
+Sep  2 19:42:04 backmain sshd[2208]: Received disconnect from 192.168.8.187 port 52382:11: disconnected by user	3
+Sep  2 19:42:04 backmain sshd[2208]: Disconnected from user backmain 192.168.8.187 port 52382	3
+Sep  2 19:42:04 backmain sshd[2153]: pam_unix(sshd:session): session closed for user backmain	3
+Sep  2 19:42:04 backmain systemd-logind[685]: Session 5 logged out. Waiting for processes to exit.	3
+Sep  2 19:42:04 backmain systemd-logind[685]: Removed session 5.	3
+Sep  2 19:47:29 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/ssh-honeypot ; USER=root ; COMMAND=/usr/bin/install -m 755 bin/ssh-honeypot /usr/local/bin	2
+Sep  2 19:47:29 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:47:29 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 19:47:50 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/ssh-honeypot ; USER=root ; COMMAND=/usr/bin/install -d /etc/ssh-honeypot	2
+Sep  2 19:47:50 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:47:50 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 19:48:22 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/ssh-honeypot ; USER=root ; COMMAND=/usr/bin/install -m 644 ssh-honeypot.service /etc/ssh-honeypot/	2
+Sep  2 19:48:22 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:48:22 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 19:48:53 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/ssh-honeypot ; USER=root ; COMMAND=/usr/bin/ln -sf /etc/ssh-honeypot/ssh-honeypot.service /etc/systemd/system/	2
+Sep  2 19:48:53 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:48:53 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 19:49:30 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/ssh-honeypot ; USER=root ; COMMAND=/usr/bin/systemctl enable --now ssh-honeypot	2
+Sep  2 19:49:30 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:49:30 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 19:49:43 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/ssh-honeypot ; USER=root ; COMMAND=/usr/bin/systemctl start --now ssh-honeypot	2
+Sep  2 19:49:43 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:49:43 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 19:49:48 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/ssh-honeypot ; USER=root ; COMMAND=/usr/bin/systemctl status --now ssh-honeypot	2
+Sep  2 19:49:48 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:49:57 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 19:50:06 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/ssh-honeypot ; USER=root ; COMMAND=/usr/bin/systemctl start ssh-honeypot	2
+Sep  2 19:50:06 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:50:07 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 19:50:13 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/ssh-honeypot ; USER=root ; COMMAND=/usr/bin/systemctl status ssh-honeypot	2
+Sep  2 19:50:13 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:50:17 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 19:50:41 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/ssh-honeypot ; USER=root ; COMMAND=bin/ssh-honeypot -r ./ssh-honeypot.rsa	2
+Sep  2 19:50:41 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:53:03 backmain sshd[2414]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.8.187  user=root	3
+Sep  2 19:53:05 backmain sshd[2414]: Failed password for root from 192.168.8.187 port 61739 ssh2	3
+Sep  2 19:53:07 backmain sshd[2414]: Connection closed by authenticating user root 192.168.8.187 port 61739 [preauth]	3
+Sep  2 19:53:21 backmain sshd[2416]: Accepted password for backmain from 192.168.8.187 port 52382 ssh2	3
+Sep  2 19:53:21 backmain sshd[2416]: pam_unix(sshd:session): session opened for user backmain(uid=1000) by (uid=0)	3
+Sep  2 19:53:21 backmain systemd-logind[685]: New session 6 of user backmain.	3
+Sep  2 19:53:29 backmain sshd[2471]: Received disconnect from 192.168.8.187 port 52382:11: disconnected by user	3
+Sep  2 19:53:29 backmain sshd[2471]: Disconnected from user backmain 192.168.8.187 port 52382	3
+Sep  2 19:53:29 backmain sshd[2416]: pam_unix(sshd:session): session closed for user backmain	3
+Sep  2 19:53:29 backmain systemd-logind[685]: Session 6 logged out. Waiting for processes to exit.	3
+Sep  2 19:53:29 backmain systemd-logind[685]: Removed session 6.	3
+Sep  2 19:54:03 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 19:54:11 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/ssh-honeypot ; USER=root ; COMMAND=bin/ssh-honeypot -r ./ssh-honeypot.rsa	2
+Sep  2 19:54:11 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:54:30 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 19:54:55 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/ssh-honeypot ; USER=root ; COMMAND=bin/ssh-honeypot -r ./ssh-honeypot.rsa	2
+Sep  2 19:54:55 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:55:31 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/ssh-honeypot ; USER=root ; COMMAND=bin/ssh-honeypot -r ./ssh-honeypot.rsa	2
+Sep  2 19:55:31 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:55:31 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 19:59:24 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain ; USER=root ; COMMAND=/usr/bin/mkdir -p /etc/opencanaryd	2
+Sep  2 19:59:24 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:59:24 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 19:59:24 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain ; USER=root ; COMMAND=/usr/bin/cp /home/backmain/.local/lib/python3.10/site-packages/opencanary/data/settings.json /etc/opencanaryd/opencanary.conf	2
+Sep  2 19:59:24 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 19:59:24 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 20:01:12 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain ; USER=root ; COMMAND=/usr/bin/nano /etc/opencanaryd/opencanary.conf	2
+Sep  2 20:01:12 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 20:02:39 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 20:03:08 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain ; USER=root ; COMMAND=/home/backmain/.local/bin/twistd -y /home/backmain/.local/bin/opencanary.tac --pidfile /home/backmain/.local/bin/opencanaryd.pid --syslog --prefix=opencanaryd	2
+Sep  2 20:03:08 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  2 20:03:09 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  2 20:17:01 backmain CRON[2640]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)	3
+Sep  2 20:17:01 backmain CRON[2640]: pam_unix(cron:session): session closed for user root	3
+Sep  2 20:49:39 backmain systemd-logind[685]: System is powering down.	3
+Sep  2 20:49:39 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  3 07:10:25 backmain sshd[789]: Server listening on 0.0.0.0 port 69.	3
+Sep  3 07:10:25 backmain sshd[789]: Server listening on :: port 69.	3
+Sep  3 07:10:25 backmain systemd-logind[752]: New seat seat0.	3
+Sep  3 07:10:25 backmain systemd-logind[752]: Watching system buttons on /dev/input/event0 (Power Button)	3
+Sep  3 07:10:25 backmain systemd-logind[752]: Watching system buttons on /dev/input/event1 (Sleep Button)	3
+Sep  3 07:10:25 backmain systemd-logind[752]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)	3
+Sep  3 07:11:34 backmain login[796]: pam_unix(login:session): session opened for user backmain(uid=1000) by LOGIN(uid=0)	3
+Sep  3 07:11:34 backmain systemd-logind[752]: New session 1 of user backmain.	3
+Sep  3 07:11:34 backmain systemd: pam_unix(systemd-user:session): session opened for user backmain(uid=1000) by (uid=0)	3
+Sep  3 07:13:42 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/glastopf ; USER=root ; COMMAND=/usr/bin/apt update	2
+Sep  3 07:13:42 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  3 07:13:51 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  3 07:15:25 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/glastopf ; USER=root ; COMMAND=/usr/bin/apt install python2.7 python-openssl python-gevent libevent-dev python2.7-dev build-essential make	2
+Sep  3 07:15:25 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  3 07:15:25 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  3 07:15:42 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/glastopf ; USER=root ; COMMAND=/usr/bin/apt install python2.7 python-openssl python3-gevent libevent-dev python2.7-dev build-essential make	2
+Sep  3 07:15:42 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  3 07:15:42 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  3 07:15:49 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/glastopf ; USER=root ; COMMAND=/usr/bin/apt install python2.7 python3-openssl python3-gevent libevent-dev python2.7-dev build-essential make	2
+Sep  3 07:15:49 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  3 07:15:58 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  3 07:16:56 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/glastopf ; USER=root ; COMMAND=/usr/bin/apt install python3-chardet python3-requests python3-sqlalchemy python3-lxml	2
+Sep  3 07:16:56 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  3 07:17:01 backmain CRON[1983]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)	3
+Sep  3 07:17:01 backmain CRON[1983]: pam_unix(cron:session): session closed for user root	3
+Sep  3 07:17:05 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  3 07:17:28 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/glastopf ; USER=root ; COMMAND=/usr/bin/apt install python3-beautifulsoup	2
+Sep  3 07:17:28 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  3 07:17:29 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  3 07:17:38 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/glastopf ; USER=root ; COMMAND=/usr/bin/apt install python-beautifulsoup	2
+Sep  3 07:17:38 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  3 07:17:38 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  3 07:17:54 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/glastopf ; USER=root ; COMMAND=/usr/bin/apt install python-pip	2
+Sep  3 07:17:54 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  3 07:18:00 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  3 07:18:03 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/glastopf ; USER=root ; COMMAND=/usr/bin/apt install python-dev	2
+Sep  3 07:18:03 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  3 07:18:04 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  3 07:18:09 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/glastopf ; USER=root ; COMMAND=/usr/bin/apt install python3-dev	2
+Sep  3 07:18:09 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  3 07:18:10 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  3 07:18:22 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/glastopf ; USER=root ; COMMAND=/usr/bin/apt install python3-setuptools	2
+Sep  3 07:18:22 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  3 07:18:23 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  3 07:18:28 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/glastopf ; USER=root ; COMMAND=/usr/bin/apt install python-setuptools	2
+Sep  3 07:18:28 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  3 07:18:28 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  3 07:19:26 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/glastopf ; USER=root ; COMMAND=/usr/bin/apt install g++ git php5 php5-dev liblapack-dev gfortran libmyqlclient-dev	2
+Sep  3 07:19:26 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  3 07:19:27 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  3 07:19:41 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/glastopf ; USER=root ; COMMAND=/usr/bin/apt install g++ git php5 php5-dev liblapack-dev gfortran libmysqlclient-dev	2
+Sep  3 07:19:41 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  3 07:19:42 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  3 07:20:06 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/glastopf ; USER=root ; COMMAND=/usr/bin/apt install libxml2-dev libxslt-dev	2
+Sep  3 07:20:06 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  3 07:20:16 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  3 07:20:59 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/glastopf ; USER=root ; COMMAND=/usr/local/bin/pip install --upgrade distribute	2
+Sep  3 07:20:59 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  3 07:21:02 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  3 07:21:07 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/glastopf ; USER=root ; COMMAND=/usr/local/bin/pip3 install --upgrade distribute	2
+Sep  3 07:21:07 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  3 07:21:08 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  3 07:22:05 backmain sudo: backmain : TTY=tty1 ; PWD=/opt ; USER=root ; COMMAND=/usr/bin/git clone https://github.com/mushorg/BFR.git	2
+Sep  3 07:22:05 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  3 07:22:07 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  3 07:23:22 backmain sudo: backmain : TTY=tty1 ; PWD=/opt/BFR ; USER=root ; COMMAND=/usr/local/bin/pip3 install glastopf	2
+Sep  3 07:23:22 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  3 07:23:24 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  3 07:23:45 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/glastopf ; USER=root ; COMMAND=/usr/bin/python3 setup.py	2
+Sep  3 07:23:45 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  3 07:23:45 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  3 07:23:54 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/glastopf ; USER=root ; COMMAND=/usr/bin/python3 setup.py install	2
+Sep  3 07:23:54 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  3 07:24:47 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  3 07:25:59 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain ; USER=root ; COMMAND=/usr/bin/rm -rf glastopf/	2
+Sep  3 07:25:59 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  3 07:25:59 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  3 07:27:50 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain ; USER=root ; COMMAND=/usr/sbin/ufw enable	2
+Sep  3 07:27:50 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  3 07:27:50 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  3 07:28:21 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain ; USER=root ; COMMAND=/usr/sbin/ufw status	2
+Sep  3 07:28:21 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  3 07:28:21 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  3 07:29:28 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain ; USER=root ; COMMAND=/usr/sbin/ufw disable	2
+Sep  3 07:29:28 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  3 07:29:30 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  3 07:30:53 backmain sshd[3146]: Accepted password for backmain from 192.168.1.15 port 51713 ssh2	3
+Sep  3 07:30:53 backmain sshd[3146]: pam_unix(sshd:session): session opened for user backmain(uid=1000) by (uid=0)	3
+Sep  3 07:30:53 backmain systemd-logind[752]: New session 4 of user backmain.	3
+Sep  3 07:30:58 backmain sshd[3201]: Received disconnect from 192.168.1.15 port 51713:11: disconnected by user	3
+Sep  3 07:30:58 backmain sshd[3201]: Disconnected from user backmain 192.168.1.15 port 51713	3
+Sep  3 07:30:58 backmain sshd[3146]: pam_unix(sshd:session): session closed for user backmain	3
+Sep  3 07:30:58 backmain systemd-logind[752]: Session 4 logged out. Waiting for processes to exit.	3
+Sep  3 07:30:58 backmain systemd-logind[752]: Removed session 4.	3
+Sep  3 07:31:19 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain ; USER=root ; COMMAND=/home/backmain/.local/bin/twistd -y /home/backmain/.local/bin/opencanary.tac --pidfile /home/backmain/.local/bin/opencanaryd.pid --syslog --prefix=opencanaryd	2
+Sep  3 07:31:19 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  3 07:31:20 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  3 07:34:11 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/ssh-honeypot ; USER=root ; COMMAND=bin/ssh-honeypot -r ./ssh-honeypot.rsa	2
+Sep  3 07:34:11 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  3 07:35:44 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/ssh-honeypot ; USER=root ; COMMAND=/usr/bin/nano log.txt	2
+Sep  3 07:35:44 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  3 07:37:02 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  3 07:46:29 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain ; USER=root ; COMMAND=/usr/bin/apt install tree	2
+Sep  3 07:46:29 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)	3
+Sep  3 07:46:34 backmain sudo: pam_unix(sudo:session): session closed for user root	3
+Sep  3 07:57:54 backmain sshd[3467]: Accepted password for backmain from 192.168.1.15 port 56206 ssh2	3
+Sep  3 07:57:54 backmain sshd[3467]: pam_unix(sshd:session): session opened for user backmain(uid=1000) by (uid=0)	3
+Sep  3 07:57:54 backmain systemd-logind[752]: New session 5 of user backmain.	3
+Sep  3 08:10:00 backmain sshd[3641]: Accepted password for backmain from 192.168.1.5 port 45498 ssh2	3
+Sep  3 08:10:00 backmain sshd[3641]: pam_unix(sshd:session): session opened for user backmain(uid=1000) by (uid=0)	3
+Sep  3 08:10:00 backmain systemd-logind[752]: New session 6 of user backmain.	3
+Sep  3 08:10:24 backmain sshd[3696]: Received disconnect from 192.168.1.5 port 45498:11: disconnected by user	3
+Sep  3 08:10:24 backmain sshd[3696]: Disconnected from user backmain 192.168.1.5 port 45498	3
+Sep  3 08:10:24 backmain systemd-logind[752]: Session 6 logged out. Waiting for processes to exit.	3
+Sep  3 08:10:24 backmain sshd[3641]: pam_unix(sshd:session): session closed for user backmain	3
+Sep  3 08:10:24 backmain systemd-logind[752]: Removed session 6.	3
+Sep  3 08:17:04 backmain CRON[3713]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)	3
+Sep  3 08:17:04 backmain CRON[3713]: pam_unix(cron:session): session closed for user root	3
+Sep  3 08:23:11 backmain sshd[3718]: Accepted password for backmain from 192.168.1.15 port 51540 ssh2	3
+Sep  3 08:23:11 backmain sshd[3718]: pam_unix(sshd:session): session opened for user backmain(uid=1000) by (uid=0)	3
+Sep  3 08:23:11 backmain systemd-logind[752]: New session 8 of user backmain.	3

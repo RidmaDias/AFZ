@@ -1,0 +1,4 @@
+Credential Access - 0
+Privilege Escalation - 1
+Execution - 2
+Resource Development - 3

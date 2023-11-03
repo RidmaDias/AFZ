@@ -1,0 +1,426 @@
+Sep  2 17:40:48 backmain useradd[664]: new group: name=backmain, GID=1000
+Sep  2 17:40:48 backmain useradd[664]: new user: name=backmain, UID=1000, GID=1000, home=/home/backmain, shell=/bin/bash, from=none
+Sep  2 17:40:48 backmain useradd[664]: add 'backmain' to group 'adm'
+Sep  2 17:40:48 backmain useradd[664]: add 'backmain' to group 'cdrom'
+Sep  2 17:40:48 backmain useradd[664]: add 'backmain' to group 'sudo'
+Sep  2 17:40:48 backmain useradd[664]: add 'backmain' to group 'dip'
+Sep  2 17:40:48 backmain useradd[664]: add 'backmain' to group 'plugdev'
+Sep  2 17:40:48 backmain useradd[664]: add 'backmain' to group 'lxd'
+Sep  2 17:40:48 backmain useradd[664]: add 'backmain' to shadow group 'adm'
+Sep  2 17:40:48 backmain useradd[664]: add 'backmain' to shadow group 'cdrom'
+Sep  2 17:40:48 backmain useradd[664]: add 'backmain' to shadow group 'sudo'
+Sep  2 17:40:48 backmain useradd[664]: add 'backmain' to shadow group 'dip'
+Sep  2 17:40:48 backmain useradd[664]: add 'backmain' to shadow group 'plugdev'
+Sep  2 17:40:48 backmain useradd[664]: add 'backmain' to shadow group 'lxd'
+Sep  2 17:40:48 backmain systemd-logind[696]: New seat seat0.
+Sep  2 17:40:48 backmain systemd-logind[696]: Watching system buttons on /dev/input/event0 (Power Button)
+Sep  2 17:40:48 backmain systemd-logind[696]: Watching system buttons on /dev/input/event1 (Sleep Button)
+Sep  2 17:40:48 backmain systemd-logind[696]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+Sep  2 17:40:51 backmain sshd[797]: Server listening on 0.0.0.0 port 22.
+Sep  2 17:40:51 backmain sshd[797]: Server listening on :: port 22.
+Sep  2 17:41:02 backmain useradd[1153]: new user: name=lxd, UID=999, GID=100, home=/var/snap/lxd/common/lxd, shell=/bin/false, from=none
+Sep  2 17:41:09 backmain sshd[797]: Received signal 15; terminating.
+Sep  2 17:41:09 backmain sshd[1373]: Server listening on 0.0.0.0 port 22.
+Sep  2 17:41:09 backmain sshd[1373]: Server listening on :: port 22.
+Sep  2 17:41:38 backmain login[749]: pam_unix(login:session): session opened for user backmain(uid=1000) by LOGIN(uid=0)
+Sep  2 17:41:38 backmain systemd-logind[696]: New session 1 of user backmain.
+Sep  2 17:41:38 backmain systemd: pam_unix(systemd-user:session): session opened for user backmain(uid=1000) by (uid=0)
+Sep  2 17:41:51 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain ; USER=root ; COMMAND=/usr/bin/apt update
+Sep  2 17:41:51 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 17:41:56 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 17:49:57 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain ; USER=root ; COMMAND=/usr/bin/apt install git
+Sep  2 17:49:57 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 17:50:10 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 17:53:21 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/endlessh ; USER=root ; COMMAND=/usr/bin/apt install make
+Sep  2 17:53:21 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 17:53:27 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 17:54:27 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/endlessh ; USER=root ; COMMAND=/usr/bin/apt install libc6-dev
+Sep  2 17:54:27 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 17:54:53 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 17:57:16 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/endlessh ; USER=root ; COMMAND=/usr/bin/make
+Sep  2 17:57:16 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 17:57:16 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 18:17:01 backmain CRON[2874]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep  2 18:17:01 backmain CRON[2874]: pam_unix(cron:session): session closed for user root
+Sep  2 18:18:24 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/mhn ; USER=root ; COMMAND=./install.sh
+Sep  2 18:18:24 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 18:22:48 backmain sshd[1373]: Received signal 15; terminating.
+Sep  2 18:22:48 backmain sshd[17785]: Server listening on 0.0.0.0 port 22.
+Sep  2 18:22:48 backmain sshd[17785]: Server listening on :: port 22.
+Sep  2 18:23:49 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 18:25:09 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/mhn ; USER=root ; COMMAND=./install.sh
+Sep  2 18:25:09 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 18:25:14 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 18:25:28 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/mhn ; USER=root ; COMMAND=/usr/bin/apt install pip3
+Sep  2 18:25:28 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 18:25:28 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 18:25:44 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/mhn ; USER=root ; COMMAND=/usr/bin/apt install python3-pip
+Sep  2 18:25:44 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 18:26:00 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 18:26:07 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/mhn ; USER=root ; COMMAND=/usr/bin/apt install python3
+Sep  2 18:26:07 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 18:26:08 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 18:26:11 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/mhn ; USER=root ; COMMAND=./install.sh
+Sep  2 18:26:11 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 18:26:26 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 18:26:45 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/mhn ; USER=root ; COMMAND=/usr/bin/apt install python3-pip
+Sep  2 18:26:45 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 18:26:58 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 18:27:01 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/mhn ; USER=root ; COMMAND=./install.sh
+Sep  2 18:27:01 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 18:27:11 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 18:27:39 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/mhn ; USER=root ; COMMAND=/usr/bin/apt install python3-pip
+Sep  2 18:27:39 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 18:27:51 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 18:28:20 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/mhn ; USER=root ; COMMAND=./install.sh
+Sep  2 18:28:20 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 18:28:31 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 18:29:23 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/mhn ; USER=root ; COMMAND=/usr/bin/apt install python-pip
+Sep  2 18:29:23 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 18:29:24 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 18:29:46 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/mhn ; USER=root ; COMMAND=./install.sh
+Sep  2 18:29:46 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 18:29:51 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 18:31:27 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/mhn ; USER=root ; COMMAND=./install.sh
+Sep  2 18:31:27 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 18:31:55 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 18:33:00 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/mhn ; USER=root ; COMMAND=/usr/bin/apt install python-dev
+Sep  2 18:33:00 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 18:33:00 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 18:34:48 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/mhn ; USER=root ; COMMAND=/usr/bin/apt install python2-dev
+Sep  2 18:34:48 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 18:34:58 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 18:46:35 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/pshitt ; USER=root ; COMMAND=/usr/bin/apt isntall located
+Sep  2 18:46:35 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 18:46:35 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 18:46:40 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/pshitt ; USER=root ; COMMAND=/usr/bin/apt isntall plocate
+Sep  2 18:46:40 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 18:46:40 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 18:46:46 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/pshitt ; USER=root ; COMMAND=/usr/bin/apt install plocate
+Sep  2 18:46:46 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 18:46:49 backmain groupadd[22903]: group added to /etc/group: name=plocate, GID=119
+Sep  2 18:46:49 backmain groupadd[22903]: group added to /etc/gshadow: name=plocate
+Sep  2 18:46:49 backmain groupadd[22903]: new group: name=plocate, GID=119
+Sep  2 18:47:01 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 18:48:52 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/pshitt ; USER=root ; COMMAND=/usr/sbin/ufw allow 22
+Sep  2 18:48:52 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 18:48:53 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 18:49:58 backmain systemd-logind[696]: System is rebooting.
+Sep  2 18:52:01 backmain sshd[728]: Server listening on 0.0.0.0 port 22.
+Sep  2 18:52:01 backmain sshd[728]: Server listening on :: port 22.
+Sep  2 18:52:01 backmain systemd-logind[685]: New seat seat0.
+Sep  2 18:52:01 backmain systemd-logind[685]: Watching system buttons on /dev/input/event0 (Power Button)
+Sep  2 18:52:01 backmain systemd-logind[685]: Watching system buttons on /dev/input/event1 (Sleep Button)
+Sep  2 18:52:01 backmain systemd-logind[685]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+Sep  2 19:01:31 backmain login[708]: pam_unix(login:session): session opened for user backmain(uid=1000) by LOGIN(uid=0)
+Sep  2 19:01:31 backmain systemd-logind[685]: New session 1 of user backmain.
+Sep  2 19:01:31 backmain systemd: pam_unix(systemd-user:session): session opened for user backmain(uid=1000) by (uid=0)
+Sep  2 19:02:15 backmain sshd[1054]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.8.187  user=backmain
+Sep  2 19:02:16 backmain sshd[1054]: Failed password for backmain from 192.168.8.187 port 53318 ssh2
+Sep  2 19:02:19 backmain sshd[1054]: Connection closed by authenticating user backmain 192.168.8.187 port 53318 [preauth]
+Sep  2 19:03:01 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain ; USER=root ; COMMAND=/usr/sbin/ufw allow 80
+Sep  2 19:03:01 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:03:01 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 19:03:05 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain ; USER=root ; COMMAND=/usr/sbin/ufw allow 443
+Sep  2 19:03:05 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:03:05 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 19:03:22 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain ; USER=root ; COMMAND=/usr/sbin/ufw enable
+Sep  2 19:03:22 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:03:23 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 19:06:55 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain ; USER=root ; COMMAND=/usr/bin/mv endlessh/ /usr/local/bin/
+Sep  2 19:06:55 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:06:55 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 19:08:50 backmain sudo: backmain : TTY=tty1 ; PWD=/usr/local/bin/endlessh ; USER=root ; COMMAND=/usr/bin/cp util/endlessh.service /etc/systemd/system/
+Sep  2 19:08:50 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:08:50 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 19:09:13 backmain sudo: backmain : TTY=tty1 ; PWD=/usr/local/bin/endlessh ; USER=root ; COMMAND=/usr/bin/systemctl enable endlessh
+Sep  2 19:09:13 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:09:13 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 19:09:47 backmain sudo: backmain : TTY=tty1 ; PWD=/usr/local/bin/endlessh ; USER=root ; COMMAND=/usr/bin/mkdir -p /etc/endlessh
+Sep  2 19:09:47 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:09:47 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 19:10:00 backmain sudo: backmain : TTY=tty1 ; PWD=/usr/local/bin/endlessh ; USER=root ; COMMAND=/usr/bin/nano /etc/endlessh/config
+Sep  2 19:10:00 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:10:14 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 19:14:47 backmain sudo: backmain : TTY=tty1 ; PWD=/usr/local/bin/endlessh ; USER=root ; COMMAND=/usr/bin/systemctl start endlessh
+Sep  2 19:14:47 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:14:47 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 19:15:54 backmain sudo: backmain : TTY=tty1 ; PWD=/usr/local/bin/endlessh ; USER=root ; COMMAND=/usr/bin/apt install net-tools
+Sep  2 19:15:54 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:16:01 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 19:16:09 backmain sudo: backmain : TTY=tty1 ; PWD=/usr/local/bin/endlessh ; USER=root ; COMMAND=/usr/bin/netstat -tulpn
+Sep  2 19:16:09 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:16:09 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 19:16:20 backmain sudo: backmain : TTY=tty1 ; PWD=/usr/local/bin/endlessh ; USER=root ; COMMAND=/usr/bin/netstat -tulpn
+Sep  2 19:16:20 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:16:20 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 19:16:52 backmain sudo: backmain : TTY=tty1 ; PWD=/usr/local/bin/endlessh ; USER=root ; COMMAND=/usr/bin/systemctl start endlessh
+Sep  2 19:16:52 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:16:52 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 19:17:01 backmain CRON[1575]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep  2 19:17:01 backmain CRON[1575]: pam_unix(cron:session): session closed for user root
+Sep  2 19:17:21 backmain sudo: backmain : TTY=tty1 ; PWD=/usr/local/bin/endlessh ; USER=root ; COMMAND=/usr/bin/systemctl status endlessh
+Sep  2 19:17:21 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:17:29 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 19:17:35 backmain sudo: backmain : TTY=tty1 ; PWD=/usr/local/bin/endlessh ; USER=root ; COMMAND=/usr/bin/systemctl enable endlessh
+Sep  2 19:17:35 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:17:36 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 19:17:43 backmain sudo: backmain : TTY=tty1 ; PWD=/usr/local/bin/endlessh ; USER=root ; COMMAND=/usr/bin/systemctl start endlessh
+Sep  2 19:17:43 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:17:43 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 19:17:46 backmain sudo: backmain : TTY=tty1 ; PWD=/usr/local/bin/endlessh ; USER=root ; COMMAND=/usr/bin/systemctl status endlessh
+Sep  2 19:17:46 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:17:46 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 19:17:51 backmain sudo: backmain : TTY=tty1 ; PWD=/usr/local/bin/endlessh ; USER=root ; COMMAND=/usr/bin/systemctl status endlessh
+Sep  2 19:17:51 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:17:51 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 19:17:52 backmain sudo: backmain : TTY=tty1 ; PWD=/usr/local/bin/endlessh ; USER=root ; COMMAND=/usr/bin/systemctl status endlessh
+Sep  2 19:17:52 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:17:52 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 19:17:54 backmain sudo: backmain : TTY=tty1 ; PWD=/usr/local/bin/endlessh ; USER=root ; COMMAND=/usr/bin/systemctl status endlessh
+Sep  2 19:17:54 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:17:59 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 19:18:04 backmain sudo: backmain : TTY=tty1 ; PWD=/usr/local/bin/endlessh ; USER=root ; COMMAND=/usr/bin/netstat -tulpn
+Sep  2 19:18:04 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:18:04 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 19:18:09 backmain sudo: backmain : TTY=tty1 ; PWD=/usr/local/bin/endlessh ; USER=root ; COMMAND=/usr/bin/systemctl status endlessh
+Sep  2 19:18:09 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:18:22 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 19:18:43 backmain sshd[1656]: Accepted password for backmain from 192.168.8.187 port 52408 ssh2
+Sep  2 19:18:43 backmain sshd[1656]: pam_unix(sshd:session): session opened for user backmain(uid=1000) by (uid=0)
+Sep  2 19:18:43 backmain systemd-logind[685]: New session 4 of user backmain.
+Sep  2 19:18:49 backmain sshd[1717]: Received disconnect from 192.168.8.187 port 52408:11: disconnected by user
+Sep  2 19:18:49 backmain sshd[1717]: Disconnected from user backmain 192.168.8.187 port 52408
+Sep  2 19:18:49 backmain sshd[1656]: pam_unix(sshd:session): session closed for user backmain
+Sep  2 19:18:49 backmain systemd-logind[685]: Session 4 logged out. Waiting for processes to exit.
+Sep  2 19:18:49 backmain systemd-logind[685]: Removed session 4.
+Sep  2 19:22:03 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain ; USER=root ; COMMAND=/usr/bin/apt install build-essential
+Sep  2 19:22:03 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:22:03 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 19:31:23 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain ; USER=root ; COMMAND=/usr/bin/nano /etc/ssh/sshd_config
+Sep  2 19:31:23 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:31:32 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 19:32:16 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain ; USER=root ; COMMAND=/usr/bin/systemctl restart sshd.service
+Sep  2 19:32:16 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:32:16 backmain sshd[728]: Received signal 15; terminating.
+Sep  2 19:32:16 backmain sshd[1834]: Server listening on 0.0.0.0 port 22.
+Sep  2 19:32:16 backmain sshd[1834]: Server listening on :: port 22.
+Sep  2 19:32:16 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 19:32:24 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain ; USER=root ; COMMAND=/usr/bin/systemctl status sshd.service
+Sep  2 19:32:24 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:32:24 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 19:34:13 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain ; USER=root ; COMMAND=/usr/bin/install libssh-dev libjson-c-dev libpcap-dev libssh-dev
+Sep  2 19:34:13 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:34:13 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 19:34:23 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain ; USER=root ; COMMAND=/usr/bin/apt install libssh-dev libjson-c-dev libpcap-dev libssh-dev
+Sep  2 19:34:23 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:34:33 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 19:40:03 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/ssh-honeypot ; USER=root ; COMMAND=/usr/bin/nano /etc/ssh/sshd_config
+Sep  2 19:40:03 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:40:17 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 19:40:28 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/ssh-honeypot ; USER=root ; COMMAND=/usr/bin/systemctl restart sshd.service
+Sep  2 19:40:28 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:40:29 backmain sshd[1834]: Received signal 15; terminating.
+Sep  2 19:40:29 backmain sshd[2109]: Server listening on 0.0.0.0 port 69.
+Sep  2 19:40:29 backmain sshd[2109]: Server listening on :: port 69.
+Sep  2 19:40:29 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 19:40:37 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/ssh-honeypot ; USER=root ; COMMAND=/usr/bin/systemctl status sshd.service
+Sep  2 19:40:37 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:40:37 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 19:41:51 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/ssh-honeypot ; USER=root ; COMMAND=/usr/sbin/ufw allow 69
+Sep  2 19:41:51 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:41:51 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 19:41:58 backmain sshd[2153]: Accepted password for backmain from 192.168.8.187 port 52382 ssh2
+Sep  2 19:41:58 backmain sshd[2153]: pam_unix(sshd:session): session opened for user backmain(uid=1000) by (uid=0)
+Sep  2 19:41:58 backmain systemd-logind[685]: New session 5 of user backmain.
+Sep  2 19:42:04 backmain sshd[2208]: Received disconnect from 192.168.8.187 port 52382:11: disconnected by user
+Sep  2 19:42:04 backmain sshd[2208]: Disconnected from user backmain 192.168.8.187 port 52382
+Sep  2 19:42:04 backmain sshd[2153]: pam_unix(sshd:session): session closed for user backmain
+Sep  2 19:42:04 backmain systemd-logind[685]: Session 5 logged out. Waiting for processes to exit.
+Sep  2 19:42:04 backmain systemd-logind[685]: Removed session 5.
+Sep  2 19:47:29 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/ssh-honeypot ; USER=root ; COMMAND=/usr/bin/install -m 755 bin/ssh-honeypot /usr/local/bin
+Sep  2 19:47:29 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:47:29 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 19:47:50 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/ssh-honeypot ; USER=root ; COMMAND=/usr/bin/install -d /etc/ssh-honeypot
+Sep  2 19:47:50 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:47:50 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 19:48:22 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/ssh-honeypot ; USER=root ; COMMAND=/usr/bin/install -m 644 ssh-honeypot.service /etc/ssh-honeypot/
+Sep  2 19:48:22 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:48:22 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 19:48:53 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/ssh-honeypot ; USER=root ; COMMAND=/usr/bin/ln -sf /etc/ssh-honeypot/ssh-honeypot.service /etc/systemd/system/
+Sep  2 19:48:53 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:48:53 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 19:49:30 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/ssh-honeypot ; USER=root ; COMMAND=/usr/bin/systemctl enable --now ssh-honeypot
+Sep  2 19:49:30 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:49:30 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 19:49:43 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/ssh-honeypot ; USER=root ; COMMAND=/usr/bin/systemctl start --now ssh-honeypot
+Sep  2 19:49:43 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:49:43 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 19:49:48 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/ssh-honeypot ; USER=root ; COMMAND=/usr/bin/systemctl status --now ssh-honeypot
+Sep  2 19:49:48 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:49:57 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 19:50:06 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/ssh-honeypot ; USER=root ; COMMAND=/usr/bin/systemctl start ssh-honeypot
+Sep  2 19:50:06 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:50:07 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 19:50:13 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/ssh-honeypot ; USER=root ; COMMAND=/usr/bin/systemctl status ssh-honeypot
+Sep  2 19:50:13 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:50:17 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 19:50:41 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/ssh-honeypot ; USER=root ; COMMAND=bin/ssh-honeypot -r ./ssh-honeypot.rsa
+Sep  2 19:50:41 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:53:03 backmain sshd[2414]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.8.187  user=root
+Sep  2 19:53:05 backmain sshd[2414]: Failed password for root from 192.168.8.187 port 61739 ssh2
+Sep  2 19:53:07 backmain sshd[2414]: Connection closed by authenticating user root 192.168.8.187 port 61739 [preauth]
+Sep  2 19:53:21 backmain sshd[2416]: Accepted password for backmain from 192.168.8.187 port 52382 ssh2
+Sep  2 19:53:21 backmain sshd[2416]: pam_unix(sshd:session): session opened for user backmain(uid=1000) by (uid=0)
+Sep  2 19:53:21 backmain systemd-logind[685]: New session 6 of user backmain.
+Sep  2 19:53:29 backmain sshd[2471]: Received disconnect from 192.168.8.187 port 52382:11: disconnected by user
+Sep  2 19:53:29 backmain sshd[2471]: Disconnected from user backmain 192.168.8.187 port 52382
+Sep  2 19:53:29 backmain sshd[2416]: pam_unix(sshd:session): session closed for user backmain
+Sep  2 19:53:29 backmain systemd-logind[685]: Session 6 logged out. Waiting for processes to exit.
+Sep  2 19:53:29 backmain systemd-logind[685]: Removed session 6.
+Sep  2 19:54:03 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 19:54:11 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/ssh-honeypot ; USER=root ; COMMAND=bin/ssh-honeypot -r ./ssh-honeypot.rsa
+Sep  2 19:54:11 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:54:30 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 19:54:55 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/ssh-honeypot ; USER=root ; COMMAND=bin/ssh-honeypot -r ./ssh-honeypot.rsa
+Sep  2 19:54:55 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:55:31 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/ssh-honeypot ; USER=root ; COMMAND=bin/ssh-honeypot -r ./ssh-honeypot.rsa
+Sep  2 19:55:31 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:55:31 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 19:59:24 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain ; USER=root ; COMMAND=/usr/bin/mkdir -p /etc/opencanaryd
+Sep  2 19:59:24 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:59:24 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 19:59:24 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain ; USER=root ; COMMAND=/usr/bin/cp /home/backmain/.local/lib/python3.10/site-packages/opencanary/data/settings.json /etc/opencanaryd/opencanary.conf
+Sep  2 19:59:24 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 19:59:24 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 20:01:12 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain ; USER=root ; COMMAND=/usr/bin/nano /etc/opencanaryd/opencanary.conf
+Sep  2 20:01:12 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 20:02:39 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 20:03:08 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain ; USER=root ; COMMAND=/home/backmain/.local/bin/twistd -y /home/backmain/.local/bin/opencanary.tac --pidfile /home/backmain/.local/bin/opencanaryd.pid --syslog --prefix=opencanaryd
+Sep  2 20:03:08 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  2 20:03:09 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  2 20:17:01 backmain CRON[2640]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep  2 20:17:01 backmain CRON[2640]: pam_unix(cron:session): session closed for user root
+Sep  2 20:49:39 backmain systemd-logind[685]: System is powering down.
+Sep  2 20:49:39 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  3 07:10:25 backmain sshd[789]: Server listening on 0.0.0.0 port 69.
+Sep  3 07:10:25 backmain sshd[789]: Server listening on :: port 69.
+Sep  3 07:10:25 backmain systemd-logind[752]: New seat seat0.
+Sep  3 07:10:25 backmain systemd-logind[752]: Watching system buttons on /dev/input/event0 (Power Button)
+Sep  3 07:10:25 backmain systemd-logind[752]: Watching system buttons on /dev/input/event1 (Sleep Button)
+Sep  3 07:10:25 backmain systemd-logind[752]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+Sep  3 07:11:34 backmain login[796]: pam_unix(login:session): session opened for user backmain(uid=1000) by LOGIN(uid=0)
+Sep  3 07:11:34 backmain systemd-logind[752]: New session 1 of user backmain.
+Sep  3 07:11:34 backmain systemd: pam_unix(systemd-user:session): session opened for user backmain(uid=1000) by (uid=0)
+Sep  3 07:13:42 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/glastopf ; USER=root ; COMMAND=/usr/bin/apt update
+Sep  3 07:13:42 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  3 07:13:51 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  3 07:15:25 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/glastopf ; USER=root ; COMMAND=/usr/bin/apt install python2.7 python-openssl python-gevent libevent-dev python2.7-dev build-essential make
+Sep  3 07:15:25 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  3 07:15:25 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  3 07:15:42 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/glastopf ; USER=root ; COMMAND=/usr/bin/apt install python2.7 python-openssl python3-gevent libevent-dev python2.7-dev build-essential make
+Sep  3 07:15:42 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  3 07:15:42 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  3 07:15:49 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/glastopf ; USER=root ; COMMAND=/usr/bin/apt install python2.7 python3-openssl python3-gevent libevent-dev python2.7-dev build-essential make
+Sep  3 07:15:49 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  3 07:15:58 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  3 07:16:56 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/glastopf ; USER=root ; COMMAND=/usr/bin/apt install python3-chardet python3-requests python3-sqlalchemy python3-lxml
+Sep  3 07:16:56 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  3 07:17:01 backmain CRON[1983]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep  3 07:17:01 backmain CRON[1983]: pam_unix(cron:session): session closed for user root
+Sep  3 07:17:05 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  3 07:17:28 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/glastopf ; USER=root ; COMMAND=/usr/bin/apt install python3-beautifulsoup
+Sep  3 07:17:28 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  3 07:17:29 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  3 07:17:38 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/glastopf ; USER=root ; COMMAND=/usr/bin/apt install python-beautifulsoup
+Sep  3 07:17:38 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  3 07:17:38 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  3 07:17:54 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/glastopf ; USER=root ; COMMAND=/usr/bin/apt install python-pip
+Sep  3 07:17:54 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  3 07:18:00 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  3 07:18:03 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/glastopf ; USER=root ; COMMAND=/usr/bin/apt install python-dev
+Sep  3 07:18:03 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  3 07:18:04 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  3 07:18:09 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/glastopf ; USER=root ; COMMAND=/usr/bin/apt install python3-dev
+Sep  3 07:18:09 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  3 07:18:10 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  3 07:18:22 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/glastopf ; USER=root ; COMMAND=/usr/bin/apt install python3-setuptools
+Sep  3 07:18:22 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  3 07:18:23 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  3 07:18:28 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/glastopf ; USER=root ; COMMAND=/usr/bin/apt install python-setuptools
+Sep  3 07:18:28 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  3 07:18:28 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  3 07:19:26 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/glastopf ; USER=root ; COMMAND=/usr/bin/apt install g++ git php5 php5-dev liblapack-dev gfortran libmyqlclient-dev
+Sep  3 07:19:26 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  3 07:19:27 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  3 07:19:41 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/glastopf ; USER=root ; COMMAND=/usr/bin/apt install g++ git php5 php5-dev liblapack-dev gfortran libmysqlclient-dev
+Sep  3 07:19:41 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  3 07:19:42 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  3 07:20:06 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/glastopf ; USER=root ; COMMAND=/usr/bin/apt install libxml2-dev libxslt-dev
+Sep  3 07:20:06 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  3 07:20:16 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  3 07:20:59 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/glastopf ; USER=root ; COMMAND=/usr/local/bin/pip install --upgrade distribute
+Sep  3 07:20:59 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  3 07:21:02 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  3 07:21:07 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/glastopf ; USER=root ; COMMAND=/usr/local/bin/pip3 install --upgrade distribute
+Sep  3 07:21:07 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  3 07:21:08 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  3 07:22:05 backmain sudo: backmain : TTY=tty1 ; PWD=/opt ; USER=root ; COMMAND=/usr/bin/git clone https://github.com/mushorg/BFR.git
+Sep  3 07:22:05 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  3 07:22:07 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  3 07:23:22 backmain sudo: backmain : TTY=tty1 ; PWD=/opt/BFR ; USER=root ; COMMAND=/usr/local/bin/pip3 install glastopf
+Sep  3 07:23:22 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  3 07:23:24 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  3 07:23:45 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/glastopf ; USER=root ; COMMAND=/usr/bin/python3 setup.py
+Sep  3 07:23:45 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  3 07:23:45 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  3 07:23:54 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/glastopf ; USER=root ; COMMAND=/usr/bin/python3 setup.py install
+Sep  3 07:23:54 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  3 07:24:47 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  3 07:25:59 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain ; USER=root ; COMMAND=/usr/bin/rm -rf glastopf/
+Sep  3 07:25:59 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  3 07:25:59 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  3 07:27:50 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain ; USER=root ; COMMAND=/usr/sbin/ufw enable
+Sep  3 07:27:50 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  3 07:27:50 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  3 07:28:21 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain ; USER=root ; COMMAND=/usr/sbin/ufw status
+Sep  3 07:28:21 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  3 07:28:21 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  3 07:29:28 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain ; USER=root ; COMMAND=/usr/sbin/ufw disable
+Sep  3 07:29:28 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  3 07:29:30 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  3 07:30:53 backmain sshd[3146]: Accepted password for backmain from 192.168.1.15 port 51713 ssh2
+Sep  3 07:30:53 backmain sshd[3146]: pam_unix(sshd:session): session opened for user backmain(uid=1000) by (uid=0)
+Sep  3 07:30:53 backmain systemd-logind[752]: New session 4 of user backmain.
+Sep  3 07:30:58 backmain sshd[3201]: Received disconnect from 192.168.1.15 port 51713:11: disconnected by user
+Sep  3 07:30:58 backmain sshd[3201]: Disconnected from user backmain 192.168.1.15 port 51713
+Sep  3 07:30:58 backmain sshd[3146]: pam_unix(sshd:session): session closed for user backmain
+Sep  3 07:30:58 backmain systemd-logind[752]: Session 4 logged out. Waiting for processes to exit.
+Sep  3 07:30:58 backmain systemd-logind[752]: Removed session 4.
+Sep  3 07:31:19 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain ; USER=root ; COMMAND=/home/backmain/.local/bin/twistd -y /home/backmain/.local/bin/opencanary.tac --pidfile /home/backmain/.local/bin/opencanaryd.pid --syslog --prefix=opencanaryd
+Sep  3 07:31:19 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  3 07:31:20 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  3 07:34:11 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/ssh-honeypot ; USER=root ; COMMAND=bin/ssh-honeypot -r ./ssh-honeypot.rsa
+Sep  3 07:34:11 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  3 07:35:44 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain/ssh-honeypot ; USER=root ; COMMAND=/usr/bin/nano log.txt
+Sep  3 07:35:44 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  3 07:37:02 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  3 07:46:29 backmain sudo: backmain : TTY=tty1 ; PWD=/home/backmain ; USER=root ; COMMAND=/usr/bin/apt install tree
+Sep  3 07:46:29 backmain sudo: pam_unix(sudo:session): session opened for user root(uid=0) by backmain(uid=1000)
+Sep  3 07:46:34 backmain sudo: pam_unix(sudo:session): session closed for user root
+Sep  3 07:57:54 backmain sshd[3467]: Accepted password for backmain from 192.168.1.15 port 56206 ssh2
+Sep  3 07:57:54 backmain sshd[3467]: pam_unix(sshd:session): session opened for user backmain(uid=1000) by (uid=0)
+Sep  3 07:57:54 backmain systemd-logind[752]: New session 5 of user backmain.
+Sep  3 08:10:00 backmain sshd[3641]: Accepted password for backmain from 192.168.1.5 port 45498 ssh2
+Sep  3 08:10:00 backmain sshd[3641]: pam_unix(sshd:session): session opened for user backmain(uid=1000) by (uid=0)
+Sep  3 08:10:00 backmain systemd-logind[752]: New session 6 of user backmain.
+Sep  3 08:10:24 backmain sshd[3696]: Received disconnect from 192.168.1.5 port 45498:11: disconnected by user
+Sep  3 08:10:24 backmain sshd[3696]: Disconnected from user backmain 192.168.1.5 port 45498
+Sep  3 08:10:24 backmain systemd-logind[752]: Session 6 logged out. Waiting for processes to exit.
+Sep  3 08:10:24 backmain sshd[3641]: pam_unix(sshd:session): session closed for user backmain
+Sep  3 08:10:24 backmain systemd-logind[752]: Removed session 6.
+Sep  3 08:17:04 backmain CRON[3713]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep  3 08:17:04 backmain CRON[3713]: pam_unix(cron:session): session closed for user root
+Sep  3 08:23:11 backmain sshd[3718]: Accepted password for backmain from 192.168.1.15 port 51540 ssh2
+Sep  3 08:23:11 backmain sshd[3718]: pam_unix(sshd:session): session opened for user backmain(uid=1000) by (uid=0)
+Sep  3 08:23:11 backmain systemd-logind[752]: New session 8 of user backmain.

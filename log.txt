@@ -1,0 +1,778 @@
+
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 07:37:16 2023] 192.168.1.15 test test
+[Sun Sep  3 07:37:18 2023] 192.168.1.15 test tsd
+[Sun Sep  3 07:37:19 2023] 192.168.1.15 test tkljd
+[Sun Sep  3 07:37:19 2023] HASSH: 192.168.1.15 70fb86783479c70b3ca1726b5244b1eb sport: 56176 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:12 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 51774 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 123456
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 princess
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 rockyou
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 daniel
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 654321
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 111111
+[Sun Sep  3 08:02:12 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 51790 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 password
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 nicole
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 lovely
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 qwerty
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 
+[Sun Sep  3 08:02:12 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 51818 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 123456789
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 iloveyou
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 1234567
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 abc123
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 monkey
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 jessica
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 ashley
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 000000
+[Sun Sep  3 08:02:12 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 51788 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 12345
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 12345678
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 babygirl
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 michael
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456 iloveu
+[Sun Sep  3 08:02:12 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 51792 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 password
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 rockyou
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 nicole
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 lovely
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 ashley
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 000000
+[Sun Sep  3 08:02:12 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 51832 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 123456789
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 1234567
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 abc123
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 monkey
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 michael
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 iloveu
+[Sun Sep  3 08:02:12 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 51834 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 12345
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 iloveyou
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 princess
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 12345678
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 babygirl
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 654321
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 111111
+[Sun Sep  3 08:02:12 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 51864 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 123456
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 daniel
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 jessica
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 qwerty
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 12345 
+[Sun Sep  3 08:02:12 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 51856 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456789 password
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456789 princess
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456789 12345678
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456789 babygirl
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456789 654321
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 123456789 111111
+[Sun Sep  3 08:02:13 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 51906 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456789 123456
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456789 1234567
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456789 abc123
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456789 monkey
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456789 michael
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 123456789 iloveu
+[Sun Sep  3 08:02:13 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 51878 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456789 12345
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456789 nicole
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456789 lovely
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456789 ashley
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 123456789 000000
+[Sun Sep  3 08:02:13 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 51876 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456789 123456789
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456789 iloveyou
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456789 rockyou
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456789 daniel
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456789 jessica
+[Sun Sep  3 08:02:12 2023] 192.168.1.5 123456789 qwerty
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 123456789 
+[Sun Sep  3 08:02:13 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 51874 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password password
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password 12345678
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password babygirl
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password 654321
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password 111111
+[Sun Sep  3 08:02:13 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 51932 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password 12345
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password 1234567
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password nicole
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password lovely
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password ashley
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password 000000
+[Sun Sep  3 08:02:13 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 51944 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password 123456
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password iloveyou
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password princess
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password abc123
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password monkey
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password michael
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password iloveu
+[Sun Sep  3 08:02:13 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 51912 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password 123456789
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password rockyou
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password daniel
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password jessica
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password qwerty
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 password 
+[Sun Sep  3 08:02:13 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 51924 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou 123456
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou iloveyou
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou 12345678
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou babygirl
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou 654321
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou 111111
+[Sun Sep  3 08:02:13 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 51958 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou password
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou rockyou
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou daniel
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou jessica
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou qwerty
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou 
+[Sun Sep  3 08:02:13 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 51964 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou 12345
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou princess
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou abc123
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou monkey
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou michael
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou iloveu
+[Sun Sep  3 08:02:13 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 51978 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou 123456789
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou 1234567
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou nicole
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou lovely
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou ashley
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 iloveyou 000000
+[Sun Sep  3 08:02:13 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 51960 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess 123456789
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess nicole
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess lovely
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess ashley
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess 000000
+[Sun Sep  3 08:02:13 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52008 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess 123456
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess 1234567
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess rockyou
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess daniel
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess jessica
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess qwerty
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess 
+[Sun Sep  3 08:02:13 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 51992 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess 12345
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess iloveyou
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess princess
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess abc123
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess monkey
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess michael
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess iloveu
+[Sun Sep  3 08:02:13 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52012 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess password
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess 12345678
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess babygirl
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess 654321
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 princess 111111
+[Sun Sep  3 08:02:13 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52024 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 1234567 12345
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 1234567 12345678
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 1234567 babygirl
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 1234567 654321
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 1234567 111111
+[Sun Sep  3 08:02:14 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52036 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 1234567 123456789
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 1234567 iloveyou
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 1234567 1234567
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 1234567 abc123
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 1234567 monkey
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 1234567 michael
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 1234567 iloveu
+[Sun Sep  3 08:02:14 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52040 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 1234567 password
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 1234567 nicole
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 1234567 lovely
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 1234567 ashley
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 1234567 000000
+[Sun Sep  3 08:02:14 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52048 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 1234567 123456
+[Sun Sep  3 08:02:13 2023] 192.168.1.5 1234567 princess
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 1234567 rockyou
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 1234567 daniel
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 1234567 jessica
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 1234567 qwerty
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 1234567 
+[Sun Sep  3 08:02:14 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52050 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou 123456789
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou iloveyou
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou princess
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou 1234567
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou abc123
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou monkey
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou michael
+[Sun Sep  3 08:02:14 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52066 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou 123456
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou daniel
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou jessica
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou qwerty
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou 000000
+[Sun Sep  3 08:02:14 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52062 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou 12345
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou 12345678
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou babygirl
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou 654321
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou 111111
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou 
+[Sun Sep  3 08:02:14 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52060 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou password
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou rockyou
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou nicole
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou lovely
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou ashley
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 rockyou iloveu
+[Sun Sep  3 08:02:14 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52070 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 123456
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 babygirl
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 654321
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 111111
+[Sun Sep  3 08:02:14 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52072 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 123456789
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 1234567
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 12345678
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 nicole
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 lovely
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 ashley
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 000000
+[Sun Sep  3 08:02:14 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52076 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 password
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 daniel
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 jessica
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 qwerty
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 
+[Sun Sep  3 08:02:14 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52082 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 12345
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 iloveyou
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 princess
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 rockyou
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 abc123
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 monkey
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 michael
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 12345678 iloveu
+[Sun Sep  3 08:02:14 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52078 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 123456
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 iloveyou
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 princess
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 1234567
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 nicole
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 daniel
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 jessica
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 qwerty
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 
+[Sun Sep  3 08:02:14 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52088 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 password
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 abc123
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 lovely
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 ashley
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 000000
+[Sun Sep  3 08:02:14 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52100 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 123456789
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 12345678
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 monkey
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 michael
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 iloveu
+[Sun Sep  3 08:02:14 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52102 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 12345
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 rockyou
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 babygirl
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 654321
+[Sun Sep  3 08:02:14 2023] 192.168.1.5 abc123 111111
+[Sun Sep  3 08:02:14 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52118 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole 123456789
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole iloveyou
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole 12345678
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole monkey
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole michael
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole iloveu
+[Sun Sep  3 08:02:15 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52134 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole 12345
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole princess
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole rockyou
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole nicole
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole babygirl
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole 654321
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole 111111
+[Sun Sep  3 08:02:15 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52136 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole password
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole abc123
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole lovely
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole ashley
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole 000000
+[Sun Sep  3 08:02:15 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52164 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole 123456
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole 1234567
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole daniel
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole jessica
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole qwerty
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 nicole 
+[Sun Sep  3 08:02:15 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52176 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel 12345
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel iloveyou
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel 1234567
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel 12345678
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel nicole
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel monkey
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel michael
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel iloveu
+[Sun Sep  3 08:02:15 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52186 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel 123456
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel princess
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel rockyou
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel abc123
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel babygirl
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel 654321
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel 111111
+[Sun Sep  3 08:02:15 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52188 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel 123456789
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel lovely
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel ashley
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel 000000
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel 
+[Sun Sep  3 08:02:15 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52208 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel password
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel daniel
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel jessica
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 daniel qwerty
+[Sun Sep  3 08:02:15 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52212 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl password
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl rockyou
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl daniel
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl 654321
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl 111111
+[Sun Sep  3 08:02:15 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52228 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl 123456
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl iloveyou
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl princess
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl 12345678
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl monkey
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl michael
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl iloveu
+[Sun Sep  3 08:02:15 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52226 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl 12345
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl abc123
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl lovely
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl ashley
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl 000000
+[Sun Sep  3 08:02:15 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52258 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl 123456789
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl 1234567
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl nicole
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl babygirl
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl jessica
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl qwerty
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 babygirl 
+[Sun Sep  3 08:02:15 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52254 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey 123456
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey nicole
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey lovely
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey ashley
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey 000000
+[Sun Sep  3 08:02:15 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52264 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey password
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey rockyou
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey abc123
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey monkey
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey michael
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey iloveu
+[Sun Sep  3 08:02:15 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52306 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey 123456789
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey iloveyou
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey princess
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey 1234567
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey 12345678
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey babygirl
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey 654321
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey 111111
+[Sun Sep  3 08:02:15 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52278 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey 12345
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey daniel
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey jessica
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey qwerty
+[Sun Sep  3 08:02:15 2023] 192.168.1.5 monkey 
+[Sun Sep  3 08:02:15 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52280 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely 123456789
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely iloveyou
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely princess
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely 1234567
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely nicole
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely lovely
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely ashley
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely 000000
+[Sun Sep  3 08:02:16 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52314 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely 12345
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely abc123
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely monkey
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely michael
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely iloveu
+[Sun Sep  3 08:02:16 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52318 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely 123456
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely 12345678
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely babygirl
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely 654321
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely 111111
+[Sun Sep  3 08:02:16 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52332 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely password
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely rockyou
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely daniel
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely jessica
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely qwerty
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 lovely 
+[Sun Sep  3 08:02:16 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52338 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica 12345
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica iloveyou
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica 1234567
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica 12345678
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica daniel
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica lovely
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica ashley
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica 000000
+[Sun Sep  3 08:02:16 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52354 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica 123456789
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica jessica
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica qwerty
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica 
+[Sun Sep  3 08:02:16 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52352 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica password
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica princess
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica rockyou
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica abc123
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica babygirl
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica 654321
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica 111111
+[Sun Sep  3 08:02:16 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52376 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica 123456
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica nicole
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica monkey
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica michael
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 jessica iloveu
+[Sun Sep  3 08:02:16 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52372 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 123456789
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 1234567
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 abc123
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 monkey
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 michael
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 iloveu
+[Sun Sep  3 08:02:16 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52380 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 password
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 rockyou
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 nicole
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 lovely
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 ashley
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 000000
+[Sun Sep  3 08:02:16 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52382 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 12345
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 babygirl
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 654321
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 111111
+[Sun Sep  3 08:02:16 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52394 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 123456
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 iloveyou
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 princess
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 12345678
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 daniel
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 jessica
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 qwerty
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 654321 
+[Sun Sep  3 08:02:16 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 52408 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael 123456789
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael 12345678
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael babygirl
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael 654321
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael 111111
+[Sun Sep  3 08:02:16 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39710 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael 123456
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael iloveyou
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael 1234567
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael nicole
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael lovely
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael ashley
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael 000000
+[Sun Sep  3 08:02:16 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39722 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael 12345
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael rockyou
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael daniel
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael jessica
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael qwerty
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael 
+[Sun Sep  3 08:02:16 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39708 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael password
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael princess
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael abc123
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael monkey
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael michael
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 michael iloveu
+[Sun Sep  3 08:02:16 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39744 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 ashley password
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 ashley 1234567
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 ashley 12345678
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 ashley babygirl
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 ashley 654321
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 ashley 111111
+[Sun Sep  3 08:02:17 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39760 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 ashley 123456
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 ashley abc123
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 ashley monkey
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 ashley michael
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 ashley iloveu
+[Sun Sep  3 08:02:17 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39758 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 ashley 123456789
+[Sun Sep  3 08:02:16 2023] 192.168.1.5 ashley iloveyou
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 ashley princess
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 ashley rockyou
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 ashley daniel
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 ashley jessica
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 ashley qwerty
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 ashley 
+[Sun Sep  3 08:02:17 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39782 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 ashley 12345
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 ashley nicole
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 ashley lovely
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 ashley ashley
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 ashley 000000
+[Sun Sep  3 08:02:17 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39768 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty 12345
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty daniel
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty jessica
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty 111111
+[Sun Sep  3 08:02:17 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39802 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty 123456
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty rockyou
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty nicole
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty lovely
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty qwerty
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty 
+[Sun Sep  3 08:02:17 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39796 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty password
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty princess
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty 12345678
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty babygirl
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty michael
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty iloveu
+[Sun Sep  3 08:02:17 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39816 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty 123456789
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty iloveyou
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty 1234567
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty abc123
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty monkey
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty 654321
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty ashley
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 qwerty 000000
+[Sun Sep  3 08:02:17 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39804 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 123456
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 princess
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 abc123
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 monkey
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 michael
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 000000
+[Sun Sep  3 08:02:17 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39832 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 123456789
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 rockyou
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 daniel
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 jessica
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 ashley
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 111111
+[Sun Sep  3 08:02:17 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39860 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 password
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 iloveyou
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 12345678
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 babygirl
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 654321
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 iloveu
+[Sun Sep  3 08:02:17 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39840 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 12345
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 1234567
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 nicole
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 lovely
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 qwerty
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 111111 
+[Sun Sep  3 08:02:17 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39854 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu 123456789
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu rockyou
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu daniel
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu jessica
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu 111111
+[Sun Sep  3 08:02:17 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39868 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu 12345
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu iloveyou
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu 1234567
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu nicole
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu lovely
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu qwerty
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu 
+[Sun Sep  3 08:02:17 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39898 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu password
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu princess
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu 12345678
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu babygirl
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu michael
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu iloveu
+[Sun Sep  3 08:02:17 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39908 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu 123456
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu abc123
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu monkey
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu 654321
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu ashley
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 iloveu 000000
+[Sun Sep  3 08:02:17 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39870 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 000000 123456
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 000000 iloveyou
+[Sun Sep  3 08:02:17 2023] 192.168.1.5 000000 princess
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 000000 1234567
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 000000 rockyou
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 000000 12345678
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 000000 babygirl
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 000000 654321
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 000000 111111
+[Sun Sep  3 08:02:18 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39920 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 000000 12345
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 000000 abc123
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 000000 monkey
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 000000 michael
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 000000 iloveu
+[Sun Sep  3 08:02:18 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39948 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 000000 123456789
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 000000 nicole
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 000000 lovely
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 000000 ashley
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 000000 000000
+[Sun Sep  3 08:02:18 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39936 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 000000 password
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 000000 daniel
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 000000 jessica
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 000000 qwerty
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 000000 
+[Sun Sep  3 08:02:18 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39960 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa password
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa daniel
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa jessica
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa qwerty
+[Sun Sep  3 08:02:18 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39996 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa 123456789
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa nicole
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa lovely
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa ashley
+[Sun Sep  3 08:02:18 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39992 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa 123456
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa iloveyou
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa princess
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa 1234567
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa rockyou
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa 12345678
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa babygirl
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa 654321
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa 111111
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa 000000
+[Sun Sep  3 08:02:18 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39972 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa 12345
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa abc123
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa monkey
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa michael
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa iloveu
+[Sun Sep  3 08:02:18 2023] 192.168.1.5 mufasa 
+[Sun Sep  3 08:02:18 2023] HASSH: 192.168.1.5 b6e912c842d3786cdb9027615745c7b5 sport: 39982 ttl: 64
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
+[Sun Sep  3 07:34:11 2023] ssh-honeypot 0.2.0 started on port 22. PID 3240
